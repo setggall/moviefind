@@ -1,0 +1,23 @@
+{
+  "name": "moviefind",
+  "version": "1.0.0",
+  "description": "Simple Movie info finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth Gallimore",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*",
+    "object-assign": "*"
+  },
+  "dependencies": {
+    "react":"*",
+    "react-dom": "*"
+  }
+}
